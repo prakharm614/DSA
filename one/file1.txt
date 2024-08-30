@@ -1,1 +1,2 @@
 this is file 1 for git
+added more content to file 1
